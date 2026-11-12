@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Тропа здоровья", "category": "лес", "amount": 5, "completed": false},
+  {"id": 2, "title": "Набережная", "category": "город", "amount": 3, "completed": true},
+  {"id": 3, "title": "Горный перевал", "category": "горы", "amount": 15, "completed": false}
+]
